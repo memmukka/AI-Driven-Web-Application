@@ -66,3 +66,11 @@ pip install streamlit
 pip install PyPDF2
 pip install transformers
 pip install torch
+
+
+How to Use
+Upload a PDF file containing lecture notes.
+Select English or Finnish language.
+Click "Generate Summary" to create a summary.
+Click "Humanize Summary" to rewrite the summary in a more natural style.
+Click "Generate Quiz" to create study questions.
